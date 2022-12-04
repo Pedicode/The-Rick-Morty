@@ -1,6 +1,7 @@
 # Getting Started with Introduction to  Rick and Morty
 
-## the npm package that needs to be installed
+<img src="./view.png" alt="view of project">
+# The npm package that needs to be installed
  <ul>
  <li> npm i styled-components</li>
  <li> npm i @reduxjs/toolkit</li>
